@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hitachi Content Platform is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://hitachivantara.com/
+Hitachi Vantara provides data infrastructure, storage platforms, hybrid cloud solutions, and AI‑ready services. It helps enterprises manage, protect, and govern data across on‑premises and cloud environments, offering integrated products such as block, file, and object storage, data management tools, and infrastructure‑as‑a‑service.
+
+**Areas:** Data Infrastructure · Storage · Hybrid Cloud · AI Services · Enterprise Solutions
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hitachivantara.com/en-us/home)
+- [Documentation](https://www.hitachivantara.com/en-us/home)
+- [Blog](https://www.hitachivantara.com/en-us/blog)
+- [Security](https://www.hitachivantara.com/en-us/security#section-vulnerability-disclosure-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/hitachi-vantara/](https://apis.io/providers/hitachi-vantara/).
